@@ -14,4 +14,5 @@ spec:
     # - https://github.com/eoghank/tanzujavawebapp/blob/main/catalog-info.yaml
     - https://github.com/sample-accelerators/spring-petclinic/blob/tap-1.0/catalog/catalog-info.yaml
     - https://github.com/sample-accelerators/tanzu-java-web-app/blob/tap-1.0/catalog/catalog-info.yaml
+    - https://github.com/sample-accelerators/spring-petclinic/blob/tap-1.1/catalog/catalog-info.yaml
 
